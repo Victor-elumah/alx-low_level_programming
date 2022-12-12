@@ -4,17 +4,17 @@
 /**
  * main - prints alpha in lower case
  *
- * Returns: Always 0 (Success)
+ * Return: Always 0
+ *
  */
 
 int main(void)
 {
-	int ch = 'a';
+	char lc;
 
-	while (ch <= 'z')
+	for (lc = 'a'; lc<= 'z'; lc++);
 	{
-		putchar(ch);
-		ch++;
+		putchar(lc);
 	}
 	putchar('\n');
 	return (0);
