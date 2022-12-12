@@ -1,11 +1,8 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 /**
  * main - prints alpha in lower case
- *
  * Return: Always 0
- *
  */
 
 int main(void)
