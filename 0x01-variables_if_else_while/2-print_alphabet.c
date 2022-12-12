@@ -4,7 +4,7 @@
 /**
  * main - returns alphabets
  *
- *Returns: Always 0 (Success)
+ * Returns: Always 0 (Success)
  */
 
 int main(void)
