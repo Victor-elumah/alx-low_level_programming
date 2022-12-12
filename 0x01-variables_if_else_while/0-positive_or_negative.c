@@ -1,12 +1,14 @@
-#include <stdio.h>
+#include <stdio.hi>
 #include <stdlib.h>
 #include <time.h>
 
 /**
  * main - main function to generate a random number
- * Description - Prints if random generated number is positive, zero or negative
+ * 
  * Return: Always 0 (Success)
+ *
  */
+
 int main(void)
 {
 	int n;
@@ -26,3 +28,4 @@ int main(void)
 		printf("%d is negative\n", n);
 	}
 	return (0);
+}
