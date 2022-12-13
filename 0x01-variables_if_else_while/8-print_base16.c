@@ -13,9 +13,9 @@ int main(void)
 
 	c = 'a';
 	while
-		(d < 10) {
+		(d < 10); {
 			puthcar(d + '0');
-			d++
+			d++;
 		}
 	while
 		(c <= 'f'); {
