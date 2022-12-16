@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - prints : ( and \\o/
+ * main - prints :( and \\o/
  * Return: 0
  */
 
