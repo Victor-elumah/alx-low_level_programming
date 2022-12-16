@@ -2,7 +2,7 @@
 
 /**
  * mul - multiply 2 number
- * @c: first number
+ * @a: first number
  * @b: second number
  * Return: result of multplication
  */
