@@ -2,7 +2,7 @@
 
 /**
  * print_number - prints int with putchar
- * @n: param
+ * @n: input integer
  * Return: void
  */
 
@@ -11,6 +11,7 @@ void print_number(int n)
 	unsigned int i, j, count;
 
 	if (n < 0)
+	
 	{
 		_putchar(45);
 		i = n * -1;
@@ -19,7 +20,7 @@ void print_number(int n)
 	{
 		i = n;
 	}
-	
+
 	j = i;
 	count = 1;
 
